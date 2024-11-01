@@ -129,30 +129,6 @@ function cmsDork(dork) {
     }
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 const themeSwitch = document.getElementById('theme-switch');
 const themeLabel = document.getElementById('theme-label');
 
